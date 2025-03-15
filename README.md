@@ -9,7 +9,7 @@ A beautifully designed card-based UI displaying animals and their behaviors. Bui
 - 🎭 **Custom Fonts & Styling:** Google Fonts and CSS effects for a professional look.  
 
 ## 📸 Preview  
-![Animal Cards Screenshot](https://your-image-link.com)  
+!![Image](https://github.com/user-attachments/assets/980572b2-a68c-4b4e-9c27-221c499b996a)
 
 ## 🚀 Getting Started  
 
